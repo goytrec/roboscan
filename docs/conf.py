@@ -25,4 +25,4 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://roboscan.readthedocs.io/en/latest/'
+html_baseurl = 'https://roboscanhelps.readthedocs.io/en/latest/'
