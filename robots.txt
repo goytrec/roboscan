@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roboscan.readthedocs.io/en/latest/
